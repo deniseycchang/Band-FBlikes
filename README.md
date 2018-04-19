@@ -9,12 +9,12 @@ I was interested in the bands who have founded for decades and still widely like
 - `Band_debutYr.csv`: The names and the debut album year of selected bands.
 - `FBlikes_Scraping.py`: Scraping Facebook fan pages to get current Facebook likes of bands.
 - `FBlikes.csv`: Name, debut album year and Facebook likes of selected bands.
-- `Plot_Band-vs-FBlikes.py`: Using the data from `FBlikes.csv` to plot the figure of bands versus the Facebook likes.
-- `Band_FBlikes.png`: Horizontal bar graph on Bands versus Facebook likes
+- `Plot_Band-vs-FBlikes.py`: Using the data from `FBlikes.csv` to plot the figure of bands and the Facebook likes.
+- `Band_FBlikes.png`: Horizontal bar graph on Facebook likes of bands.
 
 ## Tools
 * Python: WebScraping, data type conversion.
-* MatPlotLib: Visualization
+* MatPlotLib: Visualization.
 
 ## Methodology
 * Band selection: Top 100 artists of all time from Rolling Stone + my knowledge to pick bands. The list is stored in `Band_debutYr.csv`.
