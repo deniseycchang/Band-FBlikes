@@ -20,4 +20,4 @@ I was interested in the bands who have founded for decades and still widely like
 * Band selection: Top 100 artists of all time from Rolling Stone + my knowledge to pick bands. The list is stored in `Band_debutYr.csv`.
 * Web Scraping: Scraping the Facebook fan page for the number of Facebook likes since it is dynamic.
   - The facebook fan page is "https://www.facebook.com/" + [band name] + "/". No space or "/" included in [band name].
-  - Since the number of likes is right before the words “people like”, search the string “people like” and count few characters before to get the number.
+  - Since the number of likes is right before the words “people like”, search the string “people like this” and count few characters before to get the number.
