@@ -21,3 +21,7 @@ I was interested in the bands who have founded for decades and still widely like
 * Web Scraping: Scraping the Facebook fan page for the number of Facebook likes since it is dynamic.
   - The facebook fan page is "https://www.facebook.com/" + [band name] + "/". No space or "/" included in [band name].
   - Since the number of likes is right before the words “people like”, search the string “people like this” and count few characters before to get the number.
+
+## Note
+* While scraping the Facebook page, I see the number of Facebook likes of every band are slowly dropping every minute. I guess that's because Facebook is losing users genearally.
+* The data show the music preference on bands before 2000 between people in age 18 - 45 since Facebook is popular for those. It is interesting since most of us may not live at those bands's time.
